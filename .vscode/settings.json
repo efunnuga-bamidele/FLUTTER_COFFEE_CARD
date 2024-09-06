@@ -1,3 +1,4 @@
 {
-    "debug.toolBarLocation": "docked"
+    "debug.toolBarLocation": "docked",
+    "editor.fontSize": 14
 }
